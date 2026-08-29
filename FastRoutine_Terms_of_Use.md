@@ -1,3 +1,11 @@
+> ⚠️ **This is an outdated historical draft, kept for reference only.**
+> The current, live Terms of Use are at **https://legal.fastroutine.fit/terms** — use that URL everywhere (App Store Connect, RevenueCat, in-app links). Do not use this file as the source of truth.
+>
+> ⚠️ **Este es un borrador histórico desactualizado, guardado solo como referencia.**
+> Los Términos de Uso vigentes están en **https://legal.fastroutine.fit/terms** — usa esa URL en todos lados (App Store Connect, RevenueCat, links dentro de la app). No uses este archivo como fuente de verdad.
+
+---
+
 # Terms of Use — FastRoutine
 
 **Last updated:** June 30, 2026

@@ -1,3 +1,11 @@
+> ⚠️ **This is an outdated historical draft, kept for reference only.**
+> The current, live Privacy Policy is at **https://legal.fastroutine.fit/privacy** — use that URL everywhere (App Store Connect, RevenueCat, in-app links). Do not use this file as the source of truth.
+>
+> ⚠️ **Este es un borrador histórico desactualizado, guardado solo como referencia.**
+> La Política de Privacidad vigente está en **https://legal.fastroutine.fit/privacy** — usa esa URL en todos lados (App Store Connect, RevenueCat, links dentro de la app). No uses este archivo como fuente de verdad.
+
+---
+
 # Privacy Policy — FastRoutine
 
 **Last updated:** June 30, 2026
