@@ -71,7 +71,7 @@ These Terms are governed by the laws of the State of California, United States, 
 
 For questions about these Terms, contact us at:
 
-**Email:** <hectorcortes@me.com>
+**Email:** <support@fastroutine.fit>
 **App:** FastRoutine
 
 -----
@@ -141,5 +141,5 @@ Estos Términos se rigen por las leyes del Estado de California, Estados Unidos,
 
 Para preguntas sobre estos Términos, contáctanos en:
 
-**Correo:** <hectorcortes@me.com>
+**Correo:** <support@fastroutine.fit>
 **App:** FastRoutine

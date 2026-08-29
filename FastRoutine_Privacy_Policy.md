@@ -86,7 +86,7 @@ We may update this Privacy Policy from time to time. We will notify you of any s
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-**Email:** <hectorcortes@me.com>
+**Email:** <support@fastroutine.fit>
 **App:** FastRoutine
 
 -----
@@ -171,5 +171,5 @@ Podemos actualizar esta Política de Privacidad de vez en cuando. Te notificarem
 
 Si tienes alguna pregunta sobre esta Política de Privacidad, contáctanos en:
 
-**Correo:** <hectorcortes@me.com>
+**Correo:** <support@fastroutine.fit>
 **App:** FastRoutine
